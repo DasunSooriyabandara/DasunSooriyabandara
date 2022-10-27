@@ -20,11 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+I+am+DasunSooriyabandara;Uva+Wellassa+University" alt="Typing SVG" /></a>
 
-<div align="center" width="50">
-
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-
-</div>
 
 <div align="center">
 
