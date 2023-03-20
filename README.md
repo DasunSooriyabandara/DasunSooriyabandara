@@ -18,8 +18,9 @@ You can click the Preview link to take a look at your changes.
        alt="snake" /></a>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+I+am+DasunSooriyabandara;Uva+Wellassa+University" alt="Typing SVG" /></a>
-
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+I+am+DasunSooriyabandara;Uva+Wellassa+University" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">
 
@@ -52,7 +53,7 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
   <a target="_blank" href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a>
   <a target="_blank" href="https://dev.to/ABSphreak">🇸​🇵​🇴​🇹​🇮​🇫​🇾​</a> -->
 
-<a href="[https://www.linkedin.com/in/absphreak](https://www.linkedin.com/in/absphreak/](https://www.linkedin.com/in/dasun-sooriyabandara-97a389193/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/dasun-sooriyabandara-97a389193/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="[https://www.instagram.com/absphreak](https://www.instagram.com/sooriyabandaradasun_cheka/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="[https://www.facebook.com/originalphreak](https://www.facebook.com/originalphreak/](https://web.facebook.com/profile.php?id=100004338524814)" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <!-- <a href="https://open.spotify.com/user/0170agi99s5hh187g7mtz245b" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
