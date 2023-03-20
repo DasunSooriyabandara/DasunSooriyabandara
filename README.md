@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DasunSooriyabandara
-- 👀 I’m interested in UI//UX
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in UI//UX & QA
+- 🌱 I’m currently Undergraduate
+- 💞️ I’m looking to collaborate on peace
+- 📫 Reach me on social media
 
 <!---
 DasunSooriyabandara/DasunSooriyabandara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
