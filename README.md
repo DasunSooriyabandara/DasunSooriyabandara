@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DasunSooriyabandara
-- 👀 I’m interested in UI//UX & QA
+- 👀 I’m interested in QA & UI//UX 
 - 🌱 I’m currently Undergraduate
 - 💞️ I’m looking to collaborate on peace
 - 📫 Reach me on social media
